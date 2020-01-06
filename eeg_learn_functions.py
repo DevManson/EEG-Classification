@@ -1,6 +1,6 @@
 from __future__ import print_function
 import time
-
+# owned by mason
 import numpy as np
 np.random.seed(1234)
 from functools import reduce
